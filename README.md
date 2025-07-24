@@ -3,13 +3,7 @@ Java programming tasks for exam preparation at PUB (Pundra University of Science
 <br><br>
 
 ## How to Run
-
-1. Clone this repository or download the ZIP.
-2. Open Eclipse or any Java IDE.
-3. Import the project:
-   - Go to **File > Import > Existing Projects into Workspace**
-   - Select the folder where this project is located
-4. Run any `.java` file from the `DayXX` folders.
+- See our [HOW_TO_RUN.md](HOW_TO_RUN.md) guide for detailed instructions on running the project using Eclipse or other Java IDEs.
 <br><br>
 
 
