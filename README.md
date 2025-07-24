@@ -7,11 +7,10 @@ Java programming tasks for exam preparation at PUB (Pundra University of Science
 <br><br>
 
 
+## Folder Structure
+- Our [directory](DIRECTORY.md) has the full list of applications.
+<br><br>
+
 ## Maintained by:
 - **Pollob Kumar**  
 - Department of CSE, Pundra University of Science & Technology (PUB)
-<br><br>
-
-
-## Folder Structure
-- Our [directory](DIRECTORY.md) has the full list of applications.
