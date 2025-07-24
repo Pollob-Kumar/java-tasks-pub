@@ -8,7 +8,7 @@ Java programming tasks for exam preparation at PUB (Pundra University of Science
 
 
 ## Folder Structure
-- Our [directory](DIRECTORY.md) has the full list of applications.
+- Our [DIRECTORY](DIRECTORY.md) has the full list of applications.
 <br><br>
 
 ## Maintained by:
