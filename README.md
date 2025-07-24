@@ -3,7 +3,7 @@ Java programming tasks for exam preparation at PUB (Pundra University of Science
 <br><br>
 
 ## How to Run
-- See our [HOW_TO_RUN.md](HOW_TO_RUN.md) guide for detailed instructions on running the project using Eclipse or other Java IDEs.
+- See our [HOW TO RUN](HOW_TO_RUN.md) guide for detailed instructions on running the project using Eclipse or other Java IDEs.
 <br><br>
 
 
