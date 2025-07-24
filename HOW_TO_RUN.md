@@ -14,7 +14,7 @@ You can run this project in **Eclipse IDE** or any other Java IDE that supports 
 6. Navigate to `src/DayXX/` and run any `.java` file.
 <br><br>
 
-## 🧪 Java Version
+## Java Version
 
 - Java: **23**  
 - IDE: **Eclipse IDE for Java Developers**
